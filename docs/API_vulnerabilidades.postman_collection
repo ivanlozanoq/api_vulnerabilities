@@ -1,0 +1,123 @@
+{
+	"info": {
+		"_postman_id": "857df865-d115-4b0c-b8e7-1a13fbfa27f2",
+		"name": "API Ivancho",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25671574"
+	},
+	"item": [
+		{
+			"name": "Post Update Vulnerabilidades",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/vulnerabilities/update",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"vulnerabilities",
+						"update"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get All",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/vulnerabilities",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"vulnerabilities"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Summary Vulnerabilidades",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/vulnerabilities/summary",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"vulnerabilities",
+						"summary"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "fix vulnerability",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/vulnerabilities/CVE-1999-0042/fix",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"vulnerabilities",
+						"CVE-1999-0042",
+						"fix"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "ping vulnerability",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/ping",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"ping"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "no fixed vulnerability",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/vulnerabilities/unfixed",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"vulnerabilities",
+						"unfixed"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
