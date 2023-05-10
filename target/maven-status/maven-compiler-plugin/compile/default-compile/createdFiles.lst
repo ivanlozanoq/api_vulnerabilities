@@ -5,10 +5,13 @@ co\wom\vulnerabilidades\entities\CVSSMetricV2.class
 co\wom\vulnerabilidades\entities\Metric.class
 co\wom\vulnerabilidades\entities\Vulnerability.class
 co\wom\vulnerabilidades\repositories\ISummaryRepository.class
+co\wom\vulnerabilidades\entities\SummaryResponse.class
 co\wom\vulnerabilidades\entities\Root.class
 co\wom\vulnerabilidades\VulnerabilidadesApplication.class
 co\wom\vulnerabilidades\services\VulnerabilitiesService.class
+co\wom\vulnerabilidades\entities\Fixed.class
 co\wom\vulnerabilidades\entities\Vulnerabilities.class
+co\wom\vulnerabilidades\repositories\IFixedRepository.class
 co\wom\vulnerabilidades\repositories\IVulnerabilitiesRepository.class
 co\wom\vulnerabilidades\entities\Weaknesses.class
 co\wom\vulnerabilidades\entities\CVSSData.class

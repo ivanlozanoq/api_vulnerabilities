@@ -1,22 +1,22 @@
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\entities\CVSSData.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\entities\Configurations.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\VulnerabilidadesApplication.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\entities\CpeMatch.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\entities\Metric.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\entities\Node.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\entities\Weaknesses.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\VulnerabilidadController.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\services\VulnerabilitiesService.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\entities\SummaryResponse.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\repositories\ISummaryRepository.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\entities\Description.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\entities\References.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\entities\Root.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\entities\Summary.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\entities\Vulnerabilities.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\entities\Vulnerability.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\repositories\IFixedRepository.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\repositories\IVulnerabilitiesRepository.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\entities\Cve.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\entities\CVSSMetricV2.java
-C:\Users\USER\Documents\NetBeansProjects\Vulnerabilidades\src\main\java\co\wom\vulnerabilidades\entities\Fixed.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\repositories\ISummaryRepository.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\entities\Vulnerability.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\VulnerabilidadController.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\VulnerabilidadesApplication.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\entities\Metric.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\entities\Weaknesses.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\entities\Root.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\entities\CVSSData.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\entities\SummaryResponse.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\entities\Description.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\repositories\IVulnerabilitiesRepository.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\entities\References.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\entities\CpeMatch.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\entities\Fixed.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\services\VulnerabilitiesService.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\repositories\IFixedRepository.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\entities\Configurations.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\entities\CVSSMetricV2.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\entities\Vulnerabilities.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\entities\Node.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\entities\Cve.java
+C:\Users\lozan\Desktop\Nueva carpeta\src\main\java\co\wom\vulnerabilidades\entities\Summary.java
